@@ -5,5 +5,5 @@ This is a kaggle competition, i achieved a decent test accuracy of 84 percent an
 
 There is still a lot of room for improvement, which im currently working on.
 
-You can find the project here,
+You can find the competition here,
 https://www.kaggle.com/c/cassava-leaf-disease-classification
