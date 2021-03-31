@@ -11,7 +11,15 @@ As the second-largest provider of carbohydrates in Africa, cassava is a key food
 This is a classification problem with images. So I did a count plot to check the spreas of the data.
 
 
+![count\-plot](/images/Count_plot.png)
+
+
 Then here are some pics of the different types of leaves
+
+![heatly](/images/healthy_leaf.png)
+
+
+![CSBD](/images/Brown_streak_disease(CBSD).png)
 
 # Data Preprocessing
 As we had lot of images and each image size is so big, it will take lot of computation power, so we had to preprocess it.
